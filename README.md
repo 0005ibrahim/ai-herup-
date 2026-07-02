@@ -1,4 +1,4 @@
-# AI Exp - Developer Assistant
+# AI herup- - Developer Assistant
 
 AI Exp is an AI-powered developer assistant application that helps developers debug issues efficiently and get quick, actionable answers to their technical questions.
 
